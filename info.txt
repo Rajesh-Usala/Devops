@@ -1,1 +1,2 @@
 welcome to java home technologies!!!
+  Thanks for attending Devops & AWS Training with our institute
